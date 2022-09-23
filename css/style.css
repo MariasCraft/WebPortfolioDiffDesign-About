@@ -1,5 +1,29 @@
 * {
-    background-color: #73A9AD;
+    background-color: #FFC4C4;
     font-family: 'Special Elite', cursive;
-    box-sizing: border-box;
+    }
+
+.navbar {
+    padding-left: 50px;
+    padding-right: 100px;
 }
+
+.navbar-nav {
+    padding: 5% 8%;
+    position: sticky;
+}
+
+.heading {
+    margin-left: 10%;
+    margin-right: 10%;
+    position: absolute;
+    /* top: 35%; */
+    text-align: center;
+}
+
+.footer {
+    text-align: left;
+    margin-top: 30vh;
+}
+
+
