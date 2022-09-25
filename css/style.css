@@ -18,25 +18,23 @@
 .heading {
     background-color: #FFC4C4;
     margin-left: 20%;
-    margin-right: 10%;
+    margin-right: 20%;
     position: absolute;
     /* top: 35%; */
     text-align: center;
 }
 
-.footer {
+.footer-cr {
     text-align: left;
     padding-left: 50px;
     margin-top: 65vh;
 }
 
-@media (max-width: 995) {
-    .footer {
+@media (max-width : 414px) {
+    footer {
         text-align: left;
         padding-left: 50px;
         margin-top: 65vh;
-        opacity: 0%;
+        opacity: 0;
     }
 }
-
-
